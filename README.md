@@ -1,4 +1,4 @@
-In this project, I used an api to fetch random quotes. I have use React library for desing the frontend part of website and used Axios library to fetch data from api.
+In this project, I used an api to fetch random quotes. I have used React library for designing the frontend part of the website and used Axios library to fetch data from api.
 By doing this project, I have learned about fetching data from api, destucturing json data and axios.
 
 ![image](https://user-images.githubusercontent.com/98271764/211064928-5b6be6fc-cd7a-41cf-b12b-faf6883080b0.png)
